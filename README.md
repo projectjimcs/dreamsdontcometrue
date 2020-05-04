@@ -4,4 +4,4 @@ First very simple text based game built in Unity to learn a bit about C# and Uni
 
 ## Getting Started
 
-To play the game, follow this link: [Game]("https://projectjimcs.github.io/dreamsdontcometrue/")
+To play the game, follow this link: [Game](https://projectjimcs.github.io/dreamsdontcometrue/)
